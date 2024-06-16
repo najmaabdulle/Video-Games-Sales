@@ -1,0 +1,1 @@
+This repository features my end-of-course project for CFG, focusing on data analysis using Kaggle's video game sales dataset. I tackled data issues, implemented error handling, and created visualisations using Python and Pandas to generate insights into global gaming trends.
